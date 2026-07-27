@@ -1,0 +1,59 @@
+# Herb
+> Your guide to cannabis culture, news, and products
+
+## About
+Herb is the leading digital media platform dedicated to cannabis culture, education, and lifestyle. We provide comprehensive coverage of cannabis news, strain information, product reviews, dispensary guides, and cultural content. Our mission is to educate, inform, and empower the cannabis community with reliable information and engaging content.
+
+## Brand Description
+Herb serves as a trusted resource for cannabis enthusiasts, patients, and curious newcomers alike. We offer:
+- **News & Culture:** Breaking news, industry updates, and cultural stories from the cannabis world
+- **Education:** Comprehensive guides, strain databases, and educational content about cannabis
+- **Product Reviews:** Detailed reviews of cannabis products, accessories, and technology
+- **Dispensary Finder:** Location-based guides to help users find dispensaries and deals
+- **Community:** A platform connecting cannabis enthusiasts, brands, and industry professionals
+
+## Contact
+- **General Inquiries:** engineering@herb.co
+- **Website:** https://herb.co
+
+## Technology
+This platform is built with:
+- **Framework:** Gatsby (React-based static site generator)
+- **Data Layer:** GraphQL
+- **Search:** Algolia
+- **Backend:** Firebase, Serverless functions
+- **Hosting:** Netlify
+
+## Policies & Legal
+- **Privacy Policy:** https://herb.co/privacy
+- **Terms of Service:** https://herb.co/tos
+- **License:** All rights reserved. Content © Herb
+
+## Crawling Rules
+User-agent: *
+Allow: /
+
+User-agent: OpenAI
+Allow: /
+
+User-agent: Anthropic
+Allow: /
+
+## Important Links
+- **Homepage:** https://herb.co/
+- **Sitemap:** https://herb.co/sitemap/sitemap.xml
+- **Robots.txt:** https://herb.co/robots.txt
+- **About Us:** https://herb.co/about-us
+- **FAQ:** https://herb.co/faq
+- **Careers:** https://herb.co/careers
+
+## Main Content Sections
+- **Learn:** https://herb.co/learn - Educational resources and guides
+- **News:** https://herb.co/news - Latest cannabis news and updates
+- **Strains:** https://herb.co/strains - Comprehensive strain database
+- **Products:** https://herb.co/products - Product reviews and information
+- **Dispensaries:** https://herb.co/dispensaries - Find local dispensaries
+- **Brands:** https://herb.co/brands - Featured cannabis brands
+- **Deals:** https://herb.co/deals - Current cannabis deals and promotions
+- **Culture:** https://herb.co/culture - Cannabis culture and lifestyle
+- **Recipes:** https://herb.co/recipes - Cannabis-infused recipes
